@@ -5,6 +5,6 @@ Day 01 : Github Repository Generated (03/09)
 Day 02 : 1st Chapter Linear models Start (03/10)  
          - 01 DL Introduction I  
 Day 03 : 1st Chapter Linear models (03/11)  
-         - 02 Linear models for Regression (OLS) I
-Day 04 : 1st Chapter Linear models (03/12)
+         - 02 Linear models for Regression (OLS) I  
+Day 04 : 1st Chapter Linear models (03/12)  
          - 03 Linear models for Regression (OLS) II  
