@@ -8,3 +8,5 @@ Day 03 : 1st Chapter Linear models (03/11)
          - 02 Linear models for Regression (OLS) I  
 Day 04 : 1st Chapter Linear models (03/12)  
          - 03 Linear models for Regression (OLS) II  
+Day 05 : 1st Chapter Linear models (03/13)  
+         - 04 Maximum likelihood estimate  
