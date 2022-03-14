@@ -10,3 +10,5 @@ Day 04 : 1st Chapter Linear models (03/12)
          - 03 Linear models for Regression (OLS) II  
 Day 05 : 1st Chapter Linear models (03/13)  
          - 04 Maximum likelihood estimate  
+Day 06 : 1st Chapter Linear models 실습 (03/14)  
+         - 01 Lab course Introduction  
