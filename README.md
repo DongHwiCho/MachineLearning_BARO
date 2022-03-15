@@ -12,5 +12,5 @@ Day 05 : 1st Chapter Linear models (03/13)
          - 04 Maximum likelihood estimate  
 Day 06 : 1st Chapter Linear models 실습 (03/14)  
          - 01 Lab course Introduction  
-Day 07 : 1st Chapter Linear models 실습 (03/15)
+Day 07 : 1st Chapter Linear models 실습 (03/15)  
          - 02 Basic ML (KNN Library)  
