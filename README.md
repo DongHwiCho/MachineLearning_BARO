@@ -14,3 +14,5 @@ Day 06 : 1st Chapter Linear models 실습 (03/14)
          - 01 Lab course Introduction  
 Day 07 : 1st Chapter Linear models 실습 (03/15)  
          - 02 Basic ML (KNN Library)  
+Day 08 : 1st Chapter Linear models 실습 (03/17) 
+         - 03 Linear Regression  
