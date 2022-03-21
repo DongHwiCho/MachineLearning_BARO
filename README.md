@@ -19,4 +19,5 @@ Day 08 : 1st Chapter Linear models 실습 (03/17)
 Day 09 : 2rd Chapter Regularization for regression (03/18)  
          - 05 Regularization  
 Day 10 : 2rd Chapter Regularization for regression (03/19)  
-         - 06 Ridge regression
+         - 06 Ridge regression  
+Day 11 : 2rd Chapter Re  
