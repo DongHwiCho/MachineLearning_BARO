@@ -20,4 +20,5 @@ Day 09 : 2rd Chapter Regularization for regression (03/18)
          - 05 Regularization  
 Day 10 : 2rd Chapter Regularization for regression (03/19)  
          - 06 Ridge regression  
-Day 11 : 2rd Chapter Re  
+Day 11 : 2rd Chapter Regularization for regression (03/22)  
+         -  
