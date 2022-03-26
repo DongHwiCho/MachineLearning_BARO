@@ -22,4 +22,4 @@ Day 10 : 2rd Chapter Regularization for regression (03/19)
          - 06 Ridge regression  
 Day 11 : 2rd Chapter Regularization for regression (03/22)  
          - 07 Test Object  
-Day 12 :  
+Day 12 : 2rd Chapter 
