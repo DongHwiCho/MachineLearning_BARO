@@ -24,5 +24,5 @@ Day 11 : 2rd Chapter Regularization for regression (03/22)
          - 07 Test Object  
 Day 12 : 2rd Chapter Regularization for regression (04/05)  
          - 08 Test Object 02 (space)  
-Day 13 : 2rd Chapter Regularization for regression (04  
+Day 13 : 2rd Chapter Regularization for regression (04/24)  
 
